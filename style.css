@@ -1,0 +1,84 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    color: black;
+    background-color: darkorange;
+}
+
+
+h1 {
+    text-align: center;
+    background-color: orchid;
+}
+
+.patyk {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+#srodek {
+
+    width: 100%;
+}
+
+h2 {
+    text-align: center;
+    background-color: crimson;
+}
+
+.budowa {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+
+}
+
+p {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+    background-color: crimson;
+}
+
+#lewo {
+    float: left;
+    width: 50%;
+}
+
+.drzewo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+
+}
+
+#prawo {
+    float: right;
+    width: 50%;
+
+}
+
+.drzewo2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+
+}
+
+footer {
+    background-color: orchid;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: right;
+}
