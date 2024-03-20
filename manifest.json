@@ -1,0 +1,17 @@
+{
+    "theme_color": "#50e3c2",
+    "background_color": "#50e3c2",
+    "display": "fullscreen",
+    "scope": "/",
+    "start_url": "/PWA/",
+    "name": "Strona wiewiórek",
+    "short_name": "wiewiórkaAPP",
+    "description": "Projekt WSB- Zaawansowane technologie internetowe",
+    "icons": [
+        {
+            "src": "./wiewioreczka.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
